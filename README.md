@@ -1,2 +1,1 @@
-# React + Vite
-Instructed by Jonas Schmedtman Reactjs course on Udemy.
+https://worldwise-rho-three.vercel.app/
